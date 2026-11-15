@@ -1,1 +1,3 @@
-python-3.11.9
+highrise-bot-sdk==25.1.0
+flask
+requests
